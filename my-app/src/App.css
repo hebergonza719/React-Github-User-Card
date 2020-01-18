@@ -69,4 +69,7 @@
   margin: 3px 0 10px;
 }
 
-
+.application {
+  width: 700px;
+  margin: 0 auto;
+}

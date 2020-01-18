@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function UsedCard({ gitUser }) {
+function UserCard({ gitUser }) {
   return (
     <div class="card">
       <img src={gitUser.avatar_url}/>
@@ -20,4 +20,4 @@ function UsedCard({ gitUser }) {
   )
 }
 
-export default UsedCard;
+export default UserCard;
